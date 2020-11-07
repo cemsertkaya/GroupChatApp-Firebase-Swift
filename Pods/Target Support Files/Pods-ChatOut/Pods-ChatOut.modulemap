@@ -1,0 +1,6 @@
+framework module Pods_ChatOut {
+  umbrella header "Pods-ChatOut-umbrella.h"
+
+  export *
+  module * { export * }
+}
